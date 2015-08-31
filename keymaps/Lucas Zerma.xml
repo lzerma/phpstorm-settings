@@ -2,7 +2,7 @@
   <action id="ChangesView.Diff" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Jdbc.Close" />
@@ -10,7 +10,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
