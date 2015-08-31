@@ -1,4 +1,7 @@
 <keymap version="1" name="Lucas Zerma" parent="Default for GNOME">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseActiveTab" />
   <action id="CloseContent">
@@ -8,13 +11,37 @@
   <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab" />
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab" />
   <action id="SendEOF" />
   <action id="openAssertEqualsDiff" />
 </keymap>
