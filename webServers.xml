@@ -4,9 +4,6 @@
       <webServer id="eb77a0a4-956c-44f8-b700-26c1ff47e247" name="Motorspecs - New API" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="c4c3d693-44bc-4340-beb5-6f726a58464c" name="Nginx Local" url="http://api.motorspecs.intranet">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
