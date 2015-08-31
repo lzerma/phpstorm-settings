@@ -1,0 +1,20 @@
+<keymap version="1" name="Lucas Zerma" parent="Default for GNOME">
+  <action id="ChangesView.Diff" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Jdbc.Close" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
