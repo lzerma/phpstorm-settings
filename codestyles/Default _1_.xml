@@ -28,7 +28,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="80" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
