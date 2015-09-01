@@ -17,7 +17,9 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="alt right" />
@@ -53,6 +55,7 @@
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="MoveStatementDown" />
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextTab" />
@@ -62,6 +65,7 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="SwitchApply">
