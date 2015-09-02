@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="eb77a0a4-956c-44f8-b700-26c1ff47e247" name="Motorspecs - New API" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
