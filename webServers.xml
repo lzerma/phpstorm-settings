@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="97e5fb1b-7887-427a-949e-aa603c29b88a" name="MultiAPI" url="http://api.motorspecs.intranet">
+        <fileTransfer mountedRoot="/var/www/motorcheck.multiapi" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
