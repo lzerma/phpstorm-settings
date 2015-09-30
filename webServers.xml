@@ -4,6 +4,9 @@
       <webServer id="97e5fb1b-7887-427a-949e-aa603c29b88a" name="MultiAPI" url="http://api.motorspecs.intranet">
         <fileTransfer mountedRoot="/var/www/motorcheck.multiapi" accessType="MOUNT" />
       </webServer>
+      <webServer id="246075e6-ff2f-44f5-b8aa-62730c8802d7" name="Regular Exports" url="http://localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
