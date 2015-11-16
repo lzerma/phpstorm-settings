@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'motorcheck.multiapi'" />
-    <option name="defaultScopeName" value="Project 'motorcheck.multiapi'" />
-    <option name="SEARCH_SCOPE" value="Project 'motorcheck.multiapi'" />
+    <option name="customScope" value="Directory '/var/www/motorcheck.multiapi/module'" />
+    <option name="defaultScopeName" value="Directory '/var/www/motorcheck.multiapi/module'" />
+    <option name="SEARCH_SCOPE" value="Directory '/var/www/motorcheck.multiapi/module'" />
   </component>
 </application>
