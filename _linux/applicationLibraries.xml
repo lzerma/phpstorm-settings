@@ -5,6 +5,8 @@
         <option name="frameworkName" value="Node.js Core Modules" />
         <option name="frameworkVersion" value="0.10.25" />
         <sourceFilesUrls>
+          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/punycode.js" />
+          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/assert.js" />
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/tty.js" />
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/child_process.js" />
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/dns.js" />
@@ -43,11 +45,11 @@
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/util.js" />
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/zlib.js" />
           <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/events.js" />
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/punycode.js" />
-          <item url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/assert.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/punycode.js" />
+        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/assert.js" />
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/tty.js" />
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/child_process.js" />
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/dns.js" />
@@ -86,8 +88,6 @@
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/util.js" />
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/zlib.js" />
         <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/events.js" />
-        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/punycode.js" />
-        <root url="file://$USER_HOME$/.WebIde90/system/extLibs/nodejs-v0.10.25-src/core-modules-sources/lib/assert.js" />
       </CLASSES>
       <SOURCES />
     </library>
