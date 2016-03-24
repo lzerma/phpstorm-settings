@@ -1,0 +1,13 @@
+<application>
+  <component name="BitbucketHostingRegistry">
+    <clouds>
+      <entry hostname="bitbucket.org">
+        <HostingBean>
+          <baseRestUri />
+          <baseUri>https://bitbucket.org/</baseUri>
+          <type>CLOUD</type>
+        </HostingBean>
+      </entry>
+    </clouds>
+  </component>
+</application>
