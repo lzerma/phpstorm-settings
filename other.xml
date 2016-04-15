@@ -50,10 +50,30 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.7.1/bin/node">
+      <version-cache version="5.7.1" last-modified="1456956801000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v5.7.1/lib/node_modules/npm" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node">
+      <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/opt/nvm/v0.10.36/bin/node">
+      <version-cache version="0.10.36" last-modified="1422300599000" />
+      <npm-package value="/usr/local/opt/nvm/v0.10.36/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="5.3.0" last-modified="1450291774000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="5.3.0" last-modified="1450291774000" />
-    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="5.2.0" last-modified="1449677296000" />
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1460755467342" />
+    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="(Does not exist)" last-modified="1460755467342" />
+    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="(Does not exist)" last-modified="1460755467342" />
+    <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.7.1/bin/node" version="5.7.1" last-modified="1456956801000" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
