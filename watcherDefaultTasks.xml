@@ -1,0 +1,23 @@
+<application>
+  <component name="ApplicationTasksOptions">
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="bin/www" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="NodeJS" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
+      <option name="fileExtension" value="js" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="NodeJS" />
+      <option name="output" value="$USER_HOME$/Documents/projects/checkapp/output.log" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="true" />
+      <option name="program" value="$USER_HOME$/.nvm/versions/node/v5.7.1/bin/node" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/Documents/projects/checkapp" />
+      <envs />
+    </TaskOptions>
+  </component>
+</application>
