@@ -70,9 +70,9 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1460755467342" />
-    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="(Does not exist)" last-modified="1460755467342" />
-    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="(Does not exist)" last-modified="1460755467342" />
+    <node-interpreter path="/usr/local/bin/node" version="(Does not exist)" last-modified="1460795824955" />
+    <node-interpreter path="/usr/local/Cellar/node/5.3.0/bin/node" version="(Does not exist)" last-modified="1460795824955" />
+    <node-interpreter path="/usr/local/Cellar/node/5.2.0/bin/node" version="(Does not exist)" last-modified="1460795824955" />
     <node-interpreter path="$USER_HOME$/.nvm/versions/node/v5.7.1/bin/node" version="5.7.1" last-modified="1456956801000" />
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
