@@ -1,9 +1,0 @@
-<templateSet group="PHP">
-  <template name="debug" value="print('&lt;pre&gt;');&#10;print_r($END$);&#10;die();" shortcut="SPACE" description="Debug snippet" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="XML" value="true" />
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
