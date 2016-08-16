@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="docs" type="PLAIN_TEXT" />
       <mapping pattern="teste" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="YAML" />
