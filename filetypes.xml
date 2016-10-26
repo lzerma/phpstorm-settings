@@ -6,6 +6,7 @@
       <mapping pattern="docs" type="PLAIN_TEXT" />
       <mapping pattern="teste" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".swagger" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="consumers" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -17,6 +18,7 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="YAML" />
       <mapping ext="j2" type="YAML" />
+      <mapping ext="swagger" type="YAML" />
     </extensionMap>
   </component>
 </application>
