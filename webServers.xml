@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="8f51fcaf-7512-48e9-a660-5f91d88b7770" name="Trip Sorter" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
