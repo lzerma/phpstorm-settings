@@ -2,7 +2,6 @@
   <template name="debug" value="print(&quot;&lt;pre&gt;&quot;);&#10;print_r($END$);&#10;die();" description="Debug snippet" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
     </context>
   </template>
 </templateSet>
