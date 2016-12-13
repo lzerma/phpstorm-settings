@@ -1,17 +1,17 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="control D" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="shift control DOWN" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
@@ -19,19 +19,19 @@
   <action id="ResizeToolWindowDown" />
   <action id="SendEOF" />
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
