@@ -1,6 +1,6 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings StylesheetUri="jar:file:/home/lzerma/.WebStorm2016.3/config/plugins/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
+    <MarkdownCssSettings StylesheetUri="jar:file:/Users/lzerma/Library/Application%20Support/WebStorm2016.3/markdown/lib/markdown.jar!/org/intellij/plugins/markdown/settings/darcula.css" />
     <MarkdownPreviewSettings>
       <HtmlPanelProviderInfo>
         <ProviderInfo name="JavaFX WebView" className="org.intellij.plugins.markdown.ui.preview.javafx.JavaFxHtmlPanelProvider" />
