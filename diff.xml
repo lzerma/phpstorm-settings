@@ -43,6 +43,9 @@
           <option name="HIGHLIGHT_POLICY" value="BY_WORD_SPLIT" />
         </PlaceSettings>
       </entry>
+      <entry key="Merge">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
 </application>
