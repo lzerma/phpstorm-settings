@@ -1,4 +1,5 @@
 <code_scheme name="Default">
+  <option name="RIGHT_MARGIN" value="100" />
   <JSCodeStyleSettings>
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
