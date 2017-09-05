@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
+      <mapping pattern="pre-commit" type="Bash" />
       <mapping ext="dockerfile" type="Docker file" />
       <mapping pattern="consumer" type="JavaScript" />
       <mapping pattern="docs" type="PLAIN_TEXT" />
@@ -9,6 +10,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".swagger" type="PLAIN_TEXT" />
+      <mapping pattern="ssh_config_template" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="consumers" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -27,7 +29,6 @@
       <mapping ext="j2" type="YAML" />
       <mapping ext="swagger" type="YAML" />
       <removed_mapping ext="youtrack" type="YouTrack" />
-      <mapping pattern="pre-commit" type="Bash" />
     </extensionMap>
   </component>
 </application>
