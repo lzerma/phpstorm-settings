@@ -34,8 +34,12 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="lzerma@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:lzerma/gluecodes-stamper.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/projects" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/gluecodes" />
   </component>
 </application>
