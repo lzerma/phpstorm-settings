@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="graphql" type="TypeScript" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
