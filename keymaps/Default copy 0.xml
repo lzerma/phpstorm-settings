@@ -47,16 +47,20 @@
     <keyboard-shortcut first-keystroke="shift meta home" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="EslintImportCodeStyle">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FindInPath" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="Jdbc.OpenTableEditor">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift meta f" />
-  </action>
+  <action id="ReformatCode" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -84,5 +88,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="openAssertEqualsDiff" />
 </keymap>
