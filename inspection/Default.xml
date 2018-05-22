@@ -1,4 +1,6 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-  <option name="myLocal" value="true" />
-</inspections>
+  <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+  </inspection_tool>
+</profile>
