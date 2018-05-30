@@ -21,6 +21,7 @@
     <option name="BLANK_LINES_AROUND_FUNCTION" value="0" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
