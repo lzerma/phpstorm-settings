@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="aurora" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
