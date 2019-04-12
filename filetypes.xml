@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env_dev" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="aurora" type="PLAIN_TEXT" />
     </extensionMap>
